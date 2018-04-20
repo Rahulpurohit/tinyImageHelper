@@ -1,0 +1,1 @@
+java -jar Tiny-0.0.1.jar
